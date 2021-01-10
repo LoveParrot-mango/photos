@@ -1,0 +1,24 @@
+
+h1 {
+    color: darkorange;
+    font-size: 35px;
+    font-family: monospace;
+    text-align: center;
+}
+
+.pic {
+    width: 250px;
+}
+
+#reason {
+    text-align: start;
+    color: lightseagreen;
+    font-size: 18px;
+}
+
+#c1 {
+    text-align: center
+    font-size: 25px;
+    font-family: serif;
+    color: darksalmon;
+}
